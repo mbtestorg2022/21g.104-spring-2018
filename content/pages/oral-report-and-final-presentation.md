@@ -21,10 +21,45 @@ One of the purposes of oral reports is to learn how to use Chinese to elaborate 
 
 *   **Grading Rubric**
 
-| Pronunciation and Tones | 30% |
-| Grammar and Structures | 30% |
-| Content and Discourse | 30% |
-| Participation | 10% 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pronunciation and Tones
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grammar and Structures
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Content and Discourse
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 *   **A Useful Online Dictionary**
 
@@ -61,14 +96,76 @@ Your grade for final presentation will be based on the following components:
 
 1.  Script: 50% (graded as a group)
     
-    | Grammar | 30% |
-    | Content and Cohesion | 15% |
-    | Wrong Characters | 5% 
+    {{< tableopen >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Grammar
+    {{< tdclose >}}
+    {{< tdopen >}}
+    30%
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Content and Cohesion
+    {{< tdclose >}}
+    {{< tdopen >}}
+    15%
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Wrong Characters
+    {{< tdclose >}}
+    {{< tdopen >}}
+    5%
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
 2.  Oral Presentation: 50% (graded individually)
     
 
-| Pronunciation and Tones (Are they accurate and naturally sounding?) | 10% |
-| Grammar and Structures (Are they correctly used?) | 10% |
-| Content and Discourse (Does the conversation make sense?) | 20% |
-| Performance (Is your performance natural and authentic?) | 10%
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pronunciation and Tones (Are they accurate and naturally sounding?)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grammar and Structures (Are they correctly used?)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Content and Discourse (Does the conversation make sense?)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Performance (Is your performance natural and authentic?)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

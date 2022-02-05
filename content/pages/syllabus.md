@@ -39,32 +39,201 @@ Evaluation
 
 The grade for this course will be based on the following table:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Daily classroom performance including familiarity with the assigned materials, accuracy and fluency in drill practice, participation in class activities, quizzes, and/or homework | 45% |
-| Review tests (10% for each; four tests in total) | 40% |
-| Oral report | 5% |
-| Final Presentation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily classroom performance including familiarity with the assigned materials, accuracy and fluency in drill practice, participation in class activities, quizzes, and/or homework
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Review tests (10% for each; four tests in total)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral report
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Daily classroom performance plays a significant role in your grades in the course. The reasons for this emphasis are many, but the main reason is that we are convinced that if you follow the course with consistency and persistence, you will develop significant demonstrable skills in Chinese by the end of the semester. Your daily performance on the activities assigned on the weekly schedule will be graded on the following four-point scale unless indicated otherwise:
 
-| POINTS | DESCRIPTIONS |
-| --- | --- |
-| 4 | Performance that promises interaction with a native with no difficulty, discomfort, or misunderstanding; no English hesitation noises in speaking and no “foreignisms” in the written work. |
-| 3.5 | Performance comprehensible to native speakers, but some non-patterned errors that would hinder smooth interaction with them. |
-| 3 | Performance comprehensible to a native, but evident weakness or patterned errors. |
-| 2.5 | Communication requires much help from interlocutor. |
-| 2 | Performance puts burden on interlocutor. To facilitate communication, a Chinese-speaking native would probably avoid using Chinese with you. |
-| 1.5 | Barely prepared, little competency evident. |
-| 1 | Evidently unprepared; unable to perform. |
-| 0 | Absent. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Performance that promises interaction with a native with no difficulty, discomfort, or misunderstanding; no English hesitation noises in speaking and no “foreignisms” in the written work.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3.5
+{{< tdclose >}}
+{{< tdopen >}}
+Performance comprehensible to native speakers, but some non-patterned errors that would hinder smooth interaction with them.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Performance comprehensible to a native, but evident weakness or patterned errors.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2.5
+{{< tdclose >}}
+{{< tdopen >}}
+Communication requires much help from interlocutor.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Performance puts burden on interlocutor. To facilitate communication, a Chinese-speaking native would probably avoid using Chinese with you.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1.5
+{{< tdclose >}}
+{{< tdopen >}}
+Barely prepared, little competency evident.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Evidently unprepared; unable to perform.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+Absent.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Most class sessions will be graded on a scale of 8 possible points, including familiarity with the assigned materials, accuracy and fluency in drill practice, participation in class activities, quizzes, and/or homework. Grades will be kept for every assigned performance. You will need a minimum of 60% to pass the course. Percentage Grade Scale:
 
-| A = 100-93.4 | A- = 93.3-90 | B+ = ﻿89.9-86.7 |
-| B = ﻿86.6-83.4 | B- = 83.3-80 | C+ = 79.9-76.7 |
-| C = 76.6-73.4 | C- = 73.3-70 | D+ = 69.9-66.7 |
-| D = 66.6-63.4 | D- = 63.3-60 | F = below 60 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+A = 100-93.4
+{{< tdclose >}}
+{{< tdopen >}}
+A- = 93.3-90
+{{< tdclose >}}
+{{< tdopen >}}
+B+ = ﻿89.9-86.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B = ﻿86.6-83.4
+{{< tdclose >}}
+{{< tdopen >}}
+﻿B- = 83.3-80
+{{< tdclose >}}
+{{< tdopen >}}
+﻿C+ = 79.9-76.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿C = 76.6-73.4
+{{< tdclose >}}
+{{< tdopen >}}
+﻿C- = 73.3-70
+{{< tdclose >}}
+{{< tdopen >}}
+D+ = 69.9-66.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿D = 66.6-63.4
+{{< tdclose >}}
+{{< tdopen >}}
+﻿D- = 63.3-60
+{{< tdclose >}}
+{{< tdopen >}}
+﻿F = below 60
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grades will be recorded on [Gradekeeper](https://www.gradekeeper.com/). Your grade record report is available upon request. If you have a question about a grade, ask your instructor. There is _no curve_ in this course. You are competing against the communicative demands of the language, not against each other. Each person will have to perform to receive credit; but there is nothing in the grading system to discourage collaborative efforts to achieve the highest level of performance possible.
 
